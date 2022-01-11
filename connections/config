@@ -1,0 +1,11 @@
+postgres:
+  database: 'postgres'
+  user: 'postgres'
+  password: '123'
+  host: '192.168.49.48'
+  port: '54339'
+redis:
+  host: 'localhost'
+  port: '6379'
+rabbitmq:
+  rabbitmq_url: amqp://wss:docs17346@192.168.49.48/DEV
